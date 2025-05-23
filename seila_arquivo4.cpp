@@ -7,7 +7,7 @@ int main() {
 
     cout << "Escreva o Valor da Compra: R$ ";
     cin >> valordaCompra;
-    cout << "Escreva a Quantidade de Prestações";
+    cout << "Escreva a Quantidade de Prestações:";
     cin >> prestacoes;
 
     float avista = valordaCompra * 0.9;
